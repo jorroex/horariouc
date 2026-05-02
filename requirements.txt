@@ -1,3 +1,3 @@
+# Tu nuevo requirements.txt debe quedar así:
 python-telegram-bot[job-queue,webhooks]
-nest-asyncio
 pytz
