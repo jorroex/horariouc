@@ -1,7 +1,6 @@
 import os
 import asyncio
-import nest_asyncio
-nest_asyncio.apply()
+
 
 import logging
 from datetime import datetime, timedelta
